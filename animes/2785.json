@@ -1,0 +1,26 @@
+{
+    "rating": "R", 
+    "studios": [
+        "Madhouse", 
+        "Studio Fantasia"
+    ], 
+    "licensors": null, 
+    "title": "OZ", 
+    "url": "/anime/2785/OZ", 
+    "popularity": 8378, 
+    "public_score": 5.45, 
+    "genres": [
+        "Action", 
+        "Military", 
+        "Sci-Fi", 
+        "Drama", 
+        "Shoujo"
+    ], 
+    "rank": 8634, 
+    "source": "Manga", 
+    "episodes": "2", 
+    "year": 1992, 
+    "duration": 35, 
+    "type": "OVA", 
+    "id": 2785
+}
