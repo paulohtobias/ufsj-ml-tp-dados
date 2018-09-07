@@ -1,0 +1,30 @@
+{
+    "rating": "R", 
+    "studios": [
+        "Studio Pierrot", 
+        "Pierrot Plus"
+    ], 
+    "licensors": [
+        "Funimation"
+    ], 
+    "title": "Tokyo Ghoul:re 2nd Season", 
+    "url": "/anime/37799/Tokyo_Ghoul_re_2nd_Season", 
+    "popularity": 1379, 
+    "public_score": null, 
+    "genres": [
+        "Action", 
+        "Mystery", 
+        "Horror", 
+        "Psychological", 
+        "Supernatural", 
+        "Drama", 
+        "Seinen"
+    ], 
+    "rank": null, 
+    "source": "Manga", 
+    "episodes": "12", 
+    "year": 2018, 
+    "duration": 24, 
+    "type": "TV", 
+    "id": 37799
+}
