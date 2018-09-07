@@ -1,0 +1,27 @@
+{
+    "rating": "G", 
+    "studios": [
+        "Studio Ghibli"
+    ], 
+    "licensors": [
+        "Walt Disney Studios", 
+        "GKIDS"
+    ], 
+    "title": "Mimi wo Sumaseba", 
+    "url": "/anime/585/Mimi_wo_Sumaseba", 
+    "popularity": 651, 
+    "public_score": 8.29, 
+    "genres": [
+        "Slice of Life", 
+        "Drama", 
+        "Romance", 
+        "Shoujo"
+    ], 
+    "rank": 250, 
+    "source": "Manga", 
+    "episodes": "1", 
+    "year": 1995, 
+    "duration": 151, 
+    "type": "Movie", 
+    "id": 585
+}

@@ -1,0 +1,28 @@
+{
+    "rating": "PG", 
+    "studios": [
+        "OLM"
+    ], 
+    "licensors": [
+        "Viz Media", 
+        "4Kids Entertainment"
+    ], 
+    "title": "Pokemon", 
+    "url": "/anime/527/Pokemon", 
+    "popularity": 221, 
+    "public_score": 7.42, 
+    "genres": [
+        "Action", 
+        "Adventure", 
+        "Comedy", 
+        "Kids", 
+        "Fantasy"
+    ], 
+    "rank": 1937, 
+    "source": "Game", 
+    "episodes": "276", 
+    "year": 1997, 
+    "duration": 24, 
+    "type": "TV", 
+    "id": 527
+}

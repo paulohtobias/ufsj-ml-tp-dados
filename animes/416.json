@@ -1,0 +1,30 @@
+{
+    "rating": "G", 
+    "studios": [
+        "Studio Ghibli"
+    ], 
+    "licensors": [
+        "Walt Disney Studios", 
+        "GKIDS"
+    ], 
+    "title": "Kurenai no Buta", 
+    "url": "/anime/416/Kurenai_no_Buta", 
+    "popularity": 880, 
+    "public_score": 8.03, 
+    "genres": [
+        "Action", 
+        "Adventure", 
+        "Comedy", 
+        "Drama", 
+        "Historical", 
+        "Military", 
+        "Romance"
+    ], 
+    "rank": 523, 
+    "source": "Manga", 
+    "episodes": "1", 
+    "year": 1992, 
+    "duration": 133, 
+    "type": "Movie", 
+    "id": 416
+}

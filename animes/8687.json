@@ -1,0 +1,25 @@
+{
+    "rating": "PG", 
+    "studios": [
+        "Studio Pierrot", 
+        "Shin-Ei Animation"
+    ], 
+    "licensors": null, 
+    "title": "Doraemon (2005)", 
+    "url": "/anime/8687/Doraemon_2005", 
+    "popularity": 4943, 
+    "public_score": 7.56, 
+    "genres": [
+        "Sci-Fi", 
+        "Comedy", 
+        "Kids", 
+        "Shounen"
+    ], 
+    "rank": 1461, 
+    "source": "Manga", 
+    "episodes": null, 
+    "year": 2005, 
+    "duration": 25, 
+    "type": "TV", 
+    "id": 8687
+}

@@ -1,0 +1,28 @@
+{
+    "rating": "PG-13", 
+    "studios": [
+        "Studio Deen"
+    ], 
+    "licensors": [
+        "Funimation"
+    ], 
+    "title": "Fruits Basket", 
+    "url": "/anime/120/Fruits_Basket", 
+    "popularity": 230, 
+    "public_score": 7.77, 
+    "genres": [
+        "Slice of Life", 
+        "Comedy", 
+        "Drama", 
+        "Romance", 
+        "Fantasy", 
+        "Shoujo"
+    ], 
+    "rank": 936, 
+    "source": "Manga", 
+    "episodes": "26", 
+    "year": 2001, 
+    "duration": 24, 
+    "type": "TV", 
+    "id": 120
+}

@@ -1,0 +1,26 @@
+{
+    "rating": "PG", 
+    "studios": [
+        "Studio Ghibli"
+    ], 
+    "licensors": [
+        "Walt Disney Studios", 
+        "GKIDS"
+    ], 
+    "title": "Sen to Chihiro no Kamikakushi", 
+    "url": "/anime/199/Sen_to_Chihiro_no_Kamikakushi", 
+    "popularity": 40, 
+    "public_score": 8.91, 
+    "genres": [
+        "Adventure", 
+        "Supernatural", 
+        "Drama"
+    ], 
+    "rank": 19, 
+    "source": "Original", 
+    "episodes": "1", 
+    "year": 2001, 
+    "duration": 25, 
+    "type": "Movie", 
+    "id": 199
+}

@@ -1,0 +1,33 @@
+{
+    "rating": "PG-13", 
+    "studios": [
+        "Studio Pierrot"
+    ], 
+    "licensors": [
+        "Media Blasters", 
+        "Discotek Media", 
+        "Geneon Entertainment USA"
+    ], 
+    "title": "Fushigi Yuugi", 
+    "url": "/anime/123/Fushigi_Yuugi", 
+    "popularity": 1150, 
+    "public_score": 7.74, 
+    "genres": [
+        "Adventure", 
+        "Fantasy", 
+        "Magic", 
+        "Martial Arts", 
+        "Comedy", 
+        "Romance", 
+        "Historical", 
+        "Drama", 
+        "Shoujo"
+    ], 
+    "rank": 1010, 
+    "source": "Manga", 
+    "episodes": "52", 
+    "year": 1995, 
+    "duration": 23, 
+    "type": "TV", 
+    "id": 123
+}

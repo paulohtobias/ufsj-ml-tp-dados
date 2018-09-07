@@ -1,0 +1,28 @@
+{
+    "rating": "PG", 
+    "studios": [
+        "Toei Animation"
+    ], 
+    "licensors": [
+        "Saban Entertainment", 
+        "Flatiron Film Company"
+    ], 
+    "title": "Digimon Adventure", 
+    "url": "/anime/552/Digimon_Adventure", 
+    "popularity": 321, 
+    "public_score": 7.87, 
+    "genres": [
+        "Action", 
+        "Adventure", 
+        "Comedy", 
+        "Fantasy", 
+        "Kids"
+    ], 
+    "rank": 750, 
+    "source": "Original", 
+    "episodes": "54", 
+    "year": 1999, 
+    "duration": 24, 
+    "type": "TV", 
+    "id": 552
+}

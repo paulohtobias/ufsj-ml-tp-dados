@@ -1,0 +1,31 @@
+{
+    "rating": "R", 
+    "studios": [
+        "Madhouse", 
+        "Satelight", 
+        "Graphinica"
+    ], 
+    "licensors": [
+        "Funimation", 
+        "Geneon Entertainment USA"
+    ], 
+    "title": "Hellsing Ultimate", 
+    "url": "/anime/777/Hellsing_Ultimate", 
+    "popularity": 106, 
+    "public_score": 8.52, 
+    "genres": [
+        "Action", 
+        "Military", 
+        "Horror", 
+        "Supernatural", 
+        "Vampire", 
+        "Seinen"
+    ], 
+    "rank": 92, 
+    "source": "Manga", 
+    "episodes": "10", 
+    "year": 2006, 
+    "duration": 50, 
+    "type": "OVA", 
+    "id": 777
+}

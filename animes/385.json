@@ -1,0 +1,27 @@
+{
+    "rating": "R", 
+    "studios": [
+        "Group TAC", 
+        "Japan Vistec"
+    ], 
+    "licensors": [
+        "ADV Films"
+    ], 
+    "title": "Gilgamesh", 
+    "url": "/anime/385/Gilgamesh", 
+    "popularity": 2233, 
+    "public_score": 6.75, 
+    "genres": [
+        "Drama", 
+        "Fantasy", 
+        "Sci-Fi", 
+        "Supernatural"
+    ], 
+    "rank": 4540, 
+    "source": "Manga", 
+    "episodes": "26", 
+    "year": 2003, 
+    "duration": 23, 
+    "type": "TV", 
+    "id": 385
+}

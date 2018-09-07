@@ -1,0 +1,31 @@
+{
+    "rating": "R", 
+    "studios": [
+        "Bones"
+    ], 
+    "licensors": [
+        "Funimation", 
+        "Aniplex of America"
+    ], 
+    "title": "Fullmetal Alchemist: Brotherhood", 
+    "url": "/anime/5114/Fullmetal_Alchemist__Brotherhood", 
+    "popularity": 4, 
+    "public_score": 9.25, 
+    "genres": [
+        "Action", 
+        "Military", 
+        "Adventure", 
+        "Comedy", 
+        "Drama", 
+        "Magic", 
+        "Fantasy", 
+        "Shounen"
+    ], 
+    "rank": 1, 
+    "source": "Manga", 
+    "episodes": "64", 
+    "year": 2009, 
+    "duration": 24, 
+    "type": "TV", 
+    "id": 5114
+}

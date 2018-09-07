@@ -1,0 +1,32 @@
+{
+    "rating": "PG", 
+    "studios": [
+        "Madhouse"
+    ], 
+    "licensors": [
+        "Nelvana", 
+        "NIS America, Inc.", 
+        "Geneon Entertainment USA"
+    ], 
+    "title": "Cardcaptor Sakura", 
+    "url": "/anime/232/Cardcaptor_Sakura", 
+    "popularity": 305, 
+    "public_score": 8.21, 
+    "genres": [
+        "Adventure", 
+        "Comedy", 
+        "Drama", 
+        "Magic", 
+        "Romance", 
+        "Fantasy", 
+        "School", 
+        "Shoujo"
+    ], 
+    "rank": 298, 
+    "source": "Manga", 
+    "episodes": "70", 
+    "year": 1998, 
+    "duration": 25, 
+    "type": "TV", 
+    "id": 232
+}

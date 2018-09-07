@@ -1,0 +1,29 @@
+{
+    "rating": "R", 
+    "studios": [
+        "Manglobe"
+    ], 
+    "licensors": [
+        "Funimation", 
+        "Geneon Entertainment USA"
+    ], 
+    "title": "Samurai Champloo", 
+    "url": "/anime/205/Samurai_Champloo", 
+    "popularity": 67, 
+    "public_score": 8.5, 
+    "genres": [
+        "Action", 
+        "Adventure", 
+        "Comedy", 
+        "Historical", 
+        "Samurai", 
+        "Shounen"
+    ], 
+    "rank": 102, 
+    "source": "Original", 
+    "episodes": "26", 
+    "year": 2004, 
+    "duration": 24, 
+    "type": "TV", 
+    "id": 205
+}

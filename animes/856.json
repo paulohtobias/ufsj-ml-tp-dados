@@ -1,0 +1,27 @@
+{
+    "rating": "R", 
+    "studios": [
+        "OLM"
+    ], 
+    "licensors": [
+        "ADV Films", 
+        "Funimation"
+    ], 
+    "title": "Utawarerumono", 
+    "url": "/anime/856/Utawarerumono", 
+    "popularity": 785, 
+    "public_score": 7.74, 
+    "genres": [
+        "Action", 
+        "Sci-Fi", 
+        "Drama", 
+        "Fantasy"
+    ], 
+    "rank": 1031, 
+    "source": "Visual novel", 
+    "episodes": "26", 
+    "year": 2006, 
+    "duration": 23, 
+    "type": "TV", 
+    "id": 856
+}

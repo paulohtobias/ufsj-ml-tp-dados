@@ -1,0 +1,30 @@
+{
+    "rating": "G", 
+    "studios": [
+        "Studio Ghibli", 
+        "Studio Hibari"
+    ], 
+    "licensors": [
+        "Walt Disney Studios", 
+        "GKIDS"
+    ], 
+    "title": "Majo no Takkyuubin", 
+    "url": "/anime/512/Majo_no_Takkyuubin", 
+    "popularity": 342, 
+    "public_score": 8.29, 
+    "genres": [
+        "Adventure", 
+        "Comedy", 
+        "Drama", 
+        "Magic", 
+        "Romance", 
+        "Fantasy"
+    ], 
+    "rank": 249, 
+    "source": "Novel", 
+    "episodes": "1", 
+    "year": 1989, 
+    "duration": 145, 
+    "type": "Movie", 
+    "id": 512
+}

@@ -1,0 +1,31 @@
+{
+    "rating": "R", 
+    "studios": [
+        "Studio Pierrot"
+    ], 
+    "licensors": [
+        "Viz Media", 
+        "Discotek Media"
+    ], 
+    "title": "Ayashi no Ceres", 
+    "url": "/anime/104/Ayashi_no_Ceres", 
+    "popularity": 1718, 
+    "public_score": 7.34, 
+    "genres": [
+        "Adventure", 
+        "Comedy", 
+        "Horror", 
+        "Psychological", 
+        "Supernatural", 
+        "Drama", 
+        "Romance", 
+        "Shoujo"
+    ], 
+    "rank": 2260, 
+    "source": "Manga", 
+    "episodes": "24", 
+    "year": 2000, 
+    "duration": 21, 
+    "type": "TV", 
+    "id": 104
+}

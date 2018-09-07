@@ -1,0 +1,29 @@
+{
+    "rating": "G", 
+    "studios": [
+        "Studio Gallop", 
+        "TMS Entertainment"
+    ], 
+    "licensors": [
+        "Discotek Media", 
+        "Geneon Entertainment USA"
+    ], 
+    "title": "Meitantei Holmes", 
+    "url": "/anime/1972/Meitantei_Holmes", 
+    "popularity": 4794, 
+    "public_score": 7.44, 
+    "genres": [
+        "Action", 
+        "Adventure", 
+        "Mystery", 
+        "Comedy", 
+        "Police"
+    ], 
+    "rank": 1853, 
+    "source": "Novel", 
+    "episodes": "26", 
+    "year": 1984, 
+    "duration": 25, 
+    "type": "TV", 
+    "id": 1972
+}

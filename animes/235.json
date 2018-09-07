@@ -1,0 +1,28 @@
+{
+    "rating": "PG-13", 
+    "studios": [
+        "TMS Entertainment"
+    ], 
+    "licensors": [
+        "Funimation", 
+        "Crunchyroll"
+    ], 
+    "title": "Detective Conan", 
+    "url": "/anime/235/Detective_Conan", 
+    "popularity": 525, 
+    "public_score": 8.25, 
+    "genres": [
+        "Adventure", 
+        "Mystery", 
+        "Comedy", 
+        "Police", 
+        "Shounen"
+    ], 
+    "rank": 276, 
+    "source": "Manga", 
+    "episodes": null, 
+    "year": 1996, 
+    "duration": 25, 
+    "type": "TV", 
+    "id": 235
+}

@@ -1,0 +1,23 @@
+{
+    "rating": "PG", 
+    "studios": null, 
+    "licensors": null, 
+    "title": "Doraemon", 
+    "url": "/anime/501/Doraemon", 
+    "popularity": 3591, 
+    "public_score": 7.44, 
+    "genres": [
+        "Adventure", 
+        "Comedy", 
+        "Fantasy", 
+        "Kids", 
+        "Shounen"
+    ], 
+    "rank": 1842, 
+    "source": "Manga", 
+    "episodes": "26", 
+    "year": 1973, 
+    "duration": 25, 
+    "type": "TV", 
+    "id": 501
+}

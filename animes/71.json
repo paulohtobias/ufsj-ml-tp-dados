@@ -1,0 +1,28 @@
+{
+    "rating": "R", 
+    "studios": [
+        "Gonzo"
+    ], 
+    "licensors": [
+        "ADV Films", 
+        "Funimation"
+    ], 
+    "title": "Full Metal Panic!", 
+    "url": "/anime/71/Full_Metal_Panic", 
+    "popularity": 194, 
+    "public_score": 7.74, 
+    "genres": [
+        "Action", 
+        "Military", 
+        "Sci-Fi", 
+        "Comedy", 
+        "Mecha"
+    ], 
+    "rank": 1008, 
+    "source": "Light novel", 
+    "episodes": "24", 
+    "year": 2002, 
+    "duration": 24, 
+    "type": "TV", 
+    "id": 71
+}

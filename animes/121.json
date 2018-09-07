@@ -1,0 +1,30 @@
+{
+    "rating": "PG-13", 
+    "studios": [
+        "Bones"
+    ], 
+    "licensors": [
+        "Funimation"
+    ], 
+    "title": "Fullmetal Alchemist", 
+    "url": "/anime/121/Fullmetal_Alchemist", 
+    "popularity": 25, 
+    "public_score": 8.28, 
+    "genres": [
+        "Action", 
+        "Adventure", 
+        "Comedy", 
+        "Drama", 
+        "Fantasy", 
+        "Magic", 
+        "Military", 
+        "Shounen"
+    ], 
+    "rank": 255, 
+    "source": "Manga", 
+    "episodes": "51", 
+    "year": 2003, 
+    "duration": 24, 
+    "type": "TV", 
+    "id": 121
+}

@@ -1,0 +1,29 @@
+{
+    "rating": "PG-13", 
+    "studios": [
+        "Studio Pierrot", 
+        "Studio Deen"
+    ], 
+    "licensors": [
+        "AnimEigo"
+    ], 
+    "title": "Urusei Yatsura", 
+    "url": "/anime/1293/Urusei_Yatsura", 
+    "popularity": 1947, 
+    "public_score": 7.75, 
+    "genres": [
+        "Action", 
+        "Sci-Fi", 
+        "Adventure", 
+        "Comedy", 
+        "Drama", 
+        "Romance"
+    ], 
+    "rank": 997, 
+    "source": "Manga", 
+    "episodes": "195", 
+    "year": 1981, 
+    "duration": 25, 
+    "type": "TV", 
+    "id": 1293
+}

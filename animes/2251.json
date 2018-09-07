@@ -1,0 +1,28 @@
+{
+    "rating": "R", 
+    "studios": [
+        "Brain's Base"
+    ], 
+    "licensors": [
+        "Funimation", 
+        "Aniplex of America"
+    ], 
+    "title": "Baccano!", 
+    "url": "/anime/2251/Baccano", 
+    "popularity": 89, 
+    "public_score": 8.48, 
+    "genres": [
+        "Action", 
+        "Mystery", 
+        "Comedy", 
+        "Historical", 
+        "Supernatural"
+    ], 
+    "rank": 107, 
+    "source": "Light novel", 
+    "episodes": "13", 
+    "year": 2007, 
+    "duration": 24, 
+    "type": "TV", 
+    "id": 2251
+}

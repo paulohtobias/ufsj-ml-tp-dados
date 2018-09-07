@@ -1,0 +1,25 @@
+{
+    "rating": "G", 
+    "studios": [
+        "Studio Ghibli"
+    ], 
+    "licensors": [
+        "Walt Disney Studios", 
+        "GKIDS"
+    ], 
+    "title": "Tonari no Yamada-kun", 
+    "url": "/anime/415/Tonari_no_Yamada-kun", 
+    "popularity": 2614, 
+    "public_score": 7.31, 
+    "genres": [
+        "Slice of Life", 
+        "Comedy"
+    ], 
+    "rank": 2405, 
+    "source": "4-koma manga", 
+    "episodes": "1", 
+    "year": 1999, 
+    "duration": 144, 
+    "type": "Movie", 
+    "id": 415
+}

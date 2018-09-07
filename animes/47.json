@@ -1,0 +1,31 @@
+{
+    "rating": "R+", 
+    "studios": [
+        "Tokyo Movie Shinsha"
+    ], 
+    "licensors": [
+        "Funimation", 
+        "Bandai Entertainment", 
+        "Geneon Entertainment USA"
+    ], 
+    "title": "Akira", 
+    "url": "/anime/47/Akira", 
+    "popularity": 196, 
+    "public_score": 8.16, 
+    "genres": [
+        "Action", 
+        "Military", 
+        "Sci-Fi", 
+        "Adventure", 
+        "Horror", 
+        "Supernatural", 
+        "Seinen"
+    ], 
+    "rank": 349, 
+    "source": "Manga", 
+    "episodes": "1", 
+    "year": 1988, 
+    "duration": 24, 
+    "type": "Movie", 
+    "id": 47
+}

@@ -1,0 +1,28 @@
+{
+    "rating": "R", 
+    "studios": [
+        "Gonzo"
+    ], 
+    "licensors": [
+        "Funimation", 
+        "Geneon Entertainment USA"
+    ], 
+    "title": "Gankutsuou", 
+    "url": "/anime/239/Gankutsuou", 
+    "popularity": 643, 
+    "public_score": 8.21, 
+    "genres": [
+        "Drama", 
+        "Mystery", 
+        "Sci-Fi", 
+        "Supernatural", 
+        "Thriller"
+    ], 
+    "rank": 300, 
+    "source": "Novel", 
+    "episodes": "24", 
+    "year": 2004, 
+    "duration": 24, 
+    "type": "TV", 
+    "id": 239
+}

@@ -1,0 +1,29 @@
+{
+    "rating": "R", 
+    "studios": [
+        "Sunrise"
+    ], 
+    "licensors": [
+        "Funimation", 
+        "Bandai Entertainment"
+    ], 
+    "title": "Cowboy Bebop", 
+    "url": "/anime/1/Cowboy_Bebop", 
+    "popularity": 38, 
+    "public_score": 8.81, 
+    "genres": [
+        "Action", 
+        "Adventure", 
+        "Comedy", 
+        "Drama", 
+        "Sci-Fi", 
+        "Space"
+    ], 
+    "rank": 30, 
+    "source": "Original", 
+    "episodes": "26", 
+    "year": 1998, 
+    "duration": 24, 
+    "type": "TV", 
+    "id": 1
+}

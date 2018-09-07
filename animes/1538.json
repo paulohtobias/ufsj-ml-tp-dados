@@ -1,0 +1,28 @@
+{
+    "rating": "R", 
+    "studios": [
+        "Gonzo", 
+        "AIC"
+    ], 
+    "licensors": [
+        "ADV Films", 
+        "Funimation"
+    ], 
+    "title": "Pumpkin Scissors", 
+    "url": "/anime/1538/Pumpkin_Scissors", 
+    "popularity": 2218, 
+    "public_score": 7.22, 
+    "genres": [
+        "Action", 
+        "Comedy", 
+        "Military", 
+        "Drama"
+    ], 
+    "rank": 2747, 
+    "source": "Manga", 
+    "episodes": "24", 
+    "year": 2006, 
+    "duration": 23, 
+    "type": "TV", 
+    "id": 1538
+}

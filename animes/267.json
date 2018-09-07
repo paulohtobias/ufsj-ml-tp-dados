@@ -1,0 +1,28 @@
+{
+    "rating": "R", 
+    "studios": [
+        "Madhouse"
+    ], 
+    "licensors": [
+        "Funimation", 
+        "Geneon Entertainment USA"
+    ], 
+    "title": "Gungrave", 
+    "url": "/anime/267/Gungrave", 
+    "popularity": 748, 
+    "public_score": 7.93, 
+    "genres": [
+        "Action", 
+        "Drama", 
+        "Sci-Fi", 
+        "Seinen", 
+        "Super Power"
+    ], 
+    "rank": 643, 
+    "source": "Game", 
+    "episodes": "26", 
+    "year": 2003, 
+    "duration": 25, 
+    "type": "TV", 
+    "id": 267
+}

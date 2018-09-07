@@ -1,0 +1,30 @@
+{
+    "rating": "PG-13", 
+    "studios": [
+        "Toei Animation"
+    ], 
+    "licensors": [
+        "Funimation", 
+        "4Kids Entertainment"
+    ], 
+    "title": "One Piece", 
+    "url": "/anime/21/One_Piece", 
+    "popularity": 37, 
+    "public_score": 8.54, 
+    "genres": [
+        "Action", 
+        "Adventure", 
+        "Comedy", 
+        "Super Power", 
+        "Drama", 
+        "Fantasy", 
+        "Shounen"
+    ], 
+    "rank": 87, 
+    "source": "Manga", 
+    "episodes": null, 
+    "year": 1999, 
+    "duration": 24, 
+    "type": "TV", 
+    "id": 21
+}

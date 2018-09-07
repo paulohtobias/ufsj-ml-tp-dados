@@ -1,0 +1,28 @@
+{
+    "rating": "R", 
+    "studios": [
+        "Gonzo"
+    ], 
+    "licensors": [
+        "Funimation", 
+        "Geneon Entertainment USA"
+    ], 
+    "title": "Hellsing", 
+    "url": "/anime/270/Hellsing", 
+    "popularity": 128, 
+    "public_score": 7.6, 
+    "genres": [
+        "Action", 
+        "Horror", 
+        "Supernatural", 
+        "Vampire", 
+        "Seinen"
+    ], 
+    "rank": 1353, 
+    "source": "Manga", 
+    "episodes": "13", 
+    "year": 2001, 
+    "duration": 23, 
+    "type": "TV", 
+    "id": 270
+}
